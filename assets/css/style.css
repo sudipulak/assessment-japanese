@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500&display=swap");
 :root {
   --white: #fff;
   --text: #222;
@@ -270,7 +271,7 @@ body {
 
 /* Banner Container */
 .banner {
-  background: url("/assets/images/banner-bg.jpg");
+  background: url("../images/banner-bg.jpg");
   background-size: cover;
   position: relative;
   height: calc(100vh + 5px);
@@ -451,11 +452,11 @@ body {
       from(rgba(0, 0, 0, 0.4)),
       to(rgba(0, 0, 0, 0.4))
     ),
-    url("/assets/images/imgbox1.jpg");
+    url("../images/imgbox1.jpg");
   background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/imgbox1.jpg");
+    url("../images/imgbox1.jpg");
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/imgbox1.jpg");
+    url("../images/imgbox1.jpg");
   background-size: cover;
   background-position: bottom center;
 }
@@ -468,11 +469,11 @@ body {
       from(rgba(0, 0, 0, 0.4)),
       to(rgba(0, 0, 0, 0.4))
     ),
-    url("/assets/images/imgbox2.jpg");
+    url("../images/imgbox2.jpg");
   background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/imgbox2.jpg");
+    url("../images/imgbox2.jpg");
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/imgbox2.jpg");
+    url("../images/imgbox2.jpg");
   background-size: cover;
   background-position: top center;
   margin-top: 100px;
@@ -538,11 +539,11 @@ body {
       from(rgba(0, 0, 0, 0.4)),
       to(rgba(0, 0, 0, 0.4))
     ),
-    url("/assets/images/service-bg.jpg");
+    url("../images/service-bg.jpg");
   background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/service-bg.jpg");
+    url("../images/service-bg.jpg");
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/service-bg.jpg");
+    url("../images/service-bg.jpg");
   height: 480px;
   background-size: cover;
 }
@@ -897,11 +898,11 @@ body {
       from(rgba(0, 0, 0, 0.4)),
       to(rgba(0, 0, 0, 0.4))
     ),
-    url("/assets/images/recruit-imgbox1.jpg");
+    url("../images/recruit-imgbox1.jpg");
   background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/recruit-imgbox1.jpg");
+    url("../images/recruit-imgbox1.jpg");
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/recruit-imgbox1.jpg");
+    url("../images/recruit-imgbox1.jpg");
   background-size: cover;
   background-position: bottom center;
   margin-top: 120px;
@@ -915,11 +916,11 @@ body {
       from(rgba(0, 0, 0, 0.4)),
       to(rgba(0, 0, 0, 0.4))
     ),
-    url("/assets/images/recruit-imgbox2.jpg");
+    url("../images/recruit-imgbox2.jpg");
   background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/recruit-imgbox2.jpg");
+    url("../images/recruit-imgbox2.jpg");
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/recruit-imgbox2.jpg");
+    url("../images/recruit-imgbox2.jpg");
   background-size: cover;
   background-position: bottom center;
   margin-top: 60px;
@@ -933,11 +934,11 @@ body {
       from(rgba(0, 0, 0, 0.4)),
       to(rgba(0, 0, 0, 0.4))
     ),
-    url("/assets/images/recruit-imgbox3.jpg");
+    url("../images/recruit-imgbox3.jpg");
   background: -o-linear-gradient(bottom, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/recruit-imgbox3.jpg");
+    url("../images/recruit-imgbox3.jpg");
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)),
-    url("/assets/images/recruit-imgbox3.jpg");
+    url("../images/recruit-imgbox3.jpg");
   background-size: cover;
   background-position: bottom center;
 }
